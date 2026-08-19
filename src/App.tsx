@@ -136,7 +136,7 @@ const App = () => {
     extraName: "劉維開 教授",
     extraTitle: "政治大學歷史學系退休教授",
     showExtra: false,
-    date: "2026/08/19 (10:00~15:00)",
+    date: "2026/08/19 (10:00~12:00)",
     location: "近史所檔案館第二會議室",
   });
 
