@@ -780,7 +780,7 @@ const App = () => {
                     )}
 
                     {/* 文字層 */}
-                    <div className="absolute top-[120px] bottom-[100px] left-[40px] right-[40px] z-30 flex flex-col bg-transparent px-[80px] py-[60px]">
+                    <div className="absolute top-[120px] bottom-[100px] left-[80px] right-[80px] z-30 flex flex-col bg-transparent px-[80px] py-[60px]">
                       <div className="flex-1 flex flex-col items-center justify-center mt-[40px]">
                         <h1
                           className="font-bold text-gray-900 leading-[1.3] text-center whitespace-pre-wrap w-full mb-[20px]"
