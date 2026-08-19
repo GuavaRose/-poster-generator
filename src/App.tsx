@@ -149,7 +149,7 @@ const App = () => {
 
   const [infoGap, setInfoGap] = useState(16);
 
-  const [logo, setLogo] = useState({ width: 300, x: 75, y: 45 });
+  const [logo, setLogo] = useState({ width: 300, x: 75, y: 60 });
   const [ill, setIll] = useState({
     width: 380,
     right: 0,
